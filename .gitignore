@@ -1,0 +1,28 @@
+**/.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints
+
+
+# folder
+/eval_results
+/results
+/splits
+/tma_csvfiles
+/tma_figures
+/tma_databases
+/tma_annotations
+/env
+
+# files
+/tma_notebooks/00*
+/tma_notebooks/03*
+/tma_notebooks/04*
+/tma_notebooks/05*
+/tma_notebooks/06*
+/tma_notebooks/07*
+/tma_notebooks/08*
+/tma_notebooks/99*
+/tma_notebooks/weight*
+
+/tma_utils/tma_dataset.py
+
