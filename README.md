@@ -4,7 +4,7 @@
 
 This repository contains the code that was used for our BVM workshop sumbission *Attention-based Multiple Instance Learning for Survival Prediction on Lung Cancer Tissue Microarrays* available on [ArXiv](https://arxiv.org/abs/2212.07724). 
 
-<img src="architecture.png" width="600px" align="center" style="background-color:white;"/>
+<img src="architecture_bg.png" width="600px" align="center"/>
 
 The code is based on the [CLAM](https://github.com/mahmoodlab/CLAM) framework for weakly-supervised classification on whole-slide images. The images were preprocessed as described in the original documentation. The model was trained using `main_survival.py`. Some evaluations are availabe in `tma_notebooks\09_evaluation_Ostercappeln.ipynb`.
 
